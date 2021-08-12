@@ -1,4 +1,4 @@
-## Olá! Bem vinde ao meu reposit
+## Olá! Bem vinde ao meu repositório!
 
  <div>
   <a href="https://github.com/jjangj">

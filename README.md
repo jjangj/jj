@@ -6,23 +6,24 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjangj&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+  <div style="pointer-events: none;"><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
   
-  <div> 
-  <a href = "mailto:jeniferjangj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeniferjang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> - 
-    <a href="https://www.behance.net/jeniferjjang" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
+  <div style="display: inline_block"><br> 
+   <a alt="Linkedin" href="https://www.linkedin.com/in/jeniferjang" target="_blank"><img height="30" width="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a> 
+   <a alt="Dribble" href="https://dribbble.com/jjjang" target="_blank"><img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/dribbble-icon-logo-vector.svg" target="_blank"></a> 
+    <a alt="Behance" href="https://www.behance.net/jeniferjjang" target="_blank"><img height="35" width="35" src="https://www.citypng.com/public/uploads/preview/-316222300043tg6qrmzul.png" target="_blank"></a> 
+   
  
   ![Snake animation](https://github.com/jjangj/jjangj/blob/output/github-contribution-grid-snake.svg)
  

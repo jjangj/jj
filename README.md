@@ -20,8 +20,8 @@
   ##
   
   <div style="display: inline_block"><br> 
-   <a alt="Linkedin" href="https://www.linkedin.com/in/jeniferjang" target="_blank"><img height="30" width="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a> 
-   <a alt="Dribble" href="https://dribbble.com/jjjang" target="_blank"><img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/dribbble-icon-logo-vector.svg" target="_blank"></a> 
+   <a alt="Linkedin" href="https://www.linkedin.com/in/jeniferjang" target="_blank"><img height="30" width="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a> .
+   <a alt="Dribble" href="https://dribbble.com/jjjang" target="_blank"><img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/dribbble-icon-logo-vector.svg" target="_blank"></a> .
     <a alt="Behance" href="https://www.behance.net/jeniferjjang" target="_blank"><img height="35" width="35" src="https://www.citypng.com/public/uploads/preview/-316222300043tg6qrmzul.png" target="_blank"></a> 
    
  

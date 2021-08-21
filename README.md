@@ -1,4 +1,4 @@
-## Olá! Bem vinde ao meu repositório!
+## Hello world, I'm Jenifer :)
 
  <div>
   <a href="https://github.com/jjangj">
